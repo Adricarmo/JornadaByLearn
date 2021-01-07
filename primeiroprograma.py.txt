@@ -1,0 +1,5 @@
+lista_vazia = []
+lista_vazia.append(24)
+lista_vazia.append('Lucas')
+lista_vazia.append('Adriana')
+print(f'A {lista_vazia[3]} tem {lista_vazia[0]} anos, é casada com o {lista_vazia[2]}')
